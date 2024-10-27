@@ -24,8 +24,6 @@
 
 ### Latest Updates
 - Added Email RAG Support (v1.3)
-- Upload.py (v1.2)
-   - replaced /n/n with /n 
 - New embeddings model mxbai-embed-large from ollama (1.2)
 - Rewrite query function to improve retrival on vauge questions (1.2)
 - Pick your model from the CLI (1.1)
